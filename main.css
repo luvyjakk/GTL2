@@ -1,0 +1,97 @@
+html {
+    box-sizing: border-box;
+    
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(180deg, #323232 0%, rgba(235,235,235, 0.00) 100%);
+
+}
+
+.footer {
+    margin: 20px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.logo_text {
+    text-align: center;
+    color: white;
+}
+
+
+.img {
+    width: 150px;
+    height: 100px; 
+    border-radius: 10px;   
+}
+
+.item {
+    text-align: center;
+}
+.container {
+    max-width: 415px;
+    
+       
+}
+
+.inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 150px 200px 200px;
+    
+}
+
+button {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 ,h3, h5, h6, p, figure {
+    margin: 0;
+}
+
+.list {
+    margin: 20px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.back {
+    border-radius: 15px;
+    border: 1px solid black;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background: black;
+   
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    
+    
+}
