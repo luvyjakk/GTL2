@@ -2,12 +2,12 @@ html {
     box-sizing: border-box;
     
 }
-
+/*
 font-family: 'Dela Gothic One', cursive;
 font-family: 'Inter', sans-serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif;
-font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Mono', monospace;*/
 
 *, ::after, ::before {
     box-sizing: inherit;
@@ -25,11 +25,24 @@ body {
     margin: 20px;
     margin-bottom: 30px;
     border-bottom: 1px solid rgb(0, 0, 0);
+    
 }
 
 .logo_text {
     text-align: center;
     color: black;
+    
+}
+
+.logo_photo {
+     display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
     
 }
 
