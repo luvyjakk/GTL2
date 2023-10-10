@@ -132,3 +132,9 @@ h2 {
     margin: 20px;
     
 }
+
+.img_description {
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+}
