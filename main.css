@@ -70,7 +70,7 @@ body {
 .inner {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 150px 150px 150px;
+    grid-template-rows: 150px 150px;
     
 }
 
@@ -119,6 +119,7 @@ h2 {
 }
 
 .btn {
+    
     display: flex;
     justify-content: center;
     margin-top: 60px;
