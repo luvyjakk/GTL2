@@ -10,12 +10,10 @@
 }  
 
 .card_info {
-    width: 90%;
-    height: 60%;
+    width: 100%;
+    height: 70%;
     border-radius: 15px;
-    margin: 0;
-   
-    
+    margin: 0;   
 }
    
     
