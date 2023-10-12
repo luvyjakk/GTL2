@@ -1,0 +1,165 @@
+.popup-bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}  
+
+.popup-bg1 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}  
+
+.popup-bg2 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg3 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg4 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg5 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg6 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg7 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg8 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg9 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.popup-bg10 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    
+}
+
+.card_info {
+    width: 100%;
+    height: 70%;
+    border-radius: 15px;
+    margin: 0;   
+}
+   
+    
+    
+    
+.popup {
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    max-width: 35rem;
+    min-width: 17.5rem;
+    background: white;
+    padding: 2px;
+    border-radius: 15px;
+    
+    
+    
+}
+
+.close-popup {
+    
+    padding-top: 20px;
+    cursor: pointer;
+    font-size: 50px;
+  
+}
+
+.close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.test {
+    display: flex;
+    text-align: center;
+}
